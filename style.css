@@ -180,7 +180,7 @@ section {
 }
 
 .home .image img {
-  width: 100%;
+  width: 80%;
 }
 
 .home .content {
@@ -205,13 +205,14 @@ section {
 
 .banner-container .banner {
   flex: 1 1 40rem;
-  height: 25rem;
+  height: 45rem;
   overflow: hidden;
   position: relative;
+ 
 }
 
 .banner-container .banner img {
-  height: 100%;
+  height: 120%;
   width: 100%;
   object-fit: cover;
 }
@@ -289,7 +290,7 @@ section {
 }
 
 .product .box-container .box img {
-  height: 20rem;
+  height: 30rem;
 }
 
 .product .box-container .box .discount {
@@ -379,7 +380,7 @@ section {
 }
 
 .deal {
-  background: url(../images/deal-bg.jpg) no-repeat;
+  background: url(../images/31.jpg) no-repeat;
   background-position: center;
   background-size: cover;
   padding-top: 7rem;
@@ -462,7 +463,7 @@ section {
 }
 
 .newsletter {
-  background: url(../images/newsletter-bg.jpg) no-repeat;
+  background: url(../images/36.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   text-align: center;
